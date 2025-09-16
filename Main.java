@@ -4,5 +4,6 @@ public class Main {
         System.out.println("임건우");
         World.run();
         Hello.run();
+        World.run2();
     }
 }
